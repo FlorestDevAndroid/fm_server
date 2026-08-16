@@ -444,7 +444,7 @@ FM Server создаёт локальную точку взаимодейств�
 Клонируйте репозиторий:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/FlorestDevAndroid/fm_server.git
 cd FMServer
 ```
 
@@ -500,4 +500,5 @@ MIT License
 ```
 
 **Локальный чат. Без интернета. Без внешнего сервера. Просто устройства в одной сети.**
+RuStore: https://www.rustore.ru/catalog/app/ru.florestdev.fm_server
 
